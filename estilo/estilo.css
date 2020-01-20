@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f89999, #f80909, #8c09f8);
+}
+
+#login .container #login-row #login-column #login-box{
+    margin-top: 10px;
+    max-width: 600px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px #343a40;
+    border-radius: 3px;
+}
+
+.profile-img-card {
+    width: 220px;
+    height: 100px;
+    margin: 0 auto 0px;
+    -moz-border-radius: 60%;
+    -webkit-border-radius: 60%;
+    border-radius: 60%;
+    display: block;
+    
+}
+
